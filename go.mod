@@ -41,7 +41,7 @@ require (
 	github.com/google/go-github/v42 v42.0.0
 	github.com/google/go-querystring v1.1.0
 	github.com/huandu/xstrings v1.3.2 // indirect
-	github.com/imdario/mergo v0.3.12
+	github.com/imdario/mergo v0.3.13
 	github.com/jamiealquiza/envy v1.1.0
 	github.com/jinzhu/copier v0.3.5
 	github.com/mandelsoft/vfs v0.0.0-20210530103237-5249dc39ce91
@@ -64,7 +64,7 @@ require (
 	golang.org/x/oauth2 v0.0.0-20220309155454-6242fa91716a
 	google.golang.org/api v0.74.0
 	gopkg.in/yaml.v2 v2.4.0
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+	gopkg.in/yaml.v3 v3.0.0
 	k8s.io/api v0.22.2
 	k8s.io/apimachinery v0.22.2
 	k8s.io/client-go v11.0.1-0.20190805182717-6502b5e7b1b5+incompatible
