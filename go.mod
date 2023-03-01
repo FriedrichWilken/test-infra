@@ -17,13 +17,13 @@ replace (
 )
 
 require (
-	cloud.google.com/go/bigquery v1.43.0
-	cloud.google.com/go/compute/metadata v0.2.1
-	cloud.google.com/go/firestore v1.8.0
-	cloud.google.com/go/functions v1.8.0
-	cloud.google.com/go/kms v1.5.0
-	cloud.google.com/go/logging v1.5.0
-	cloud.google.com/go/pubsub v1.26.0
+	cloud.google.com/go/bigquery v1.44.0
+	cloud.google.com/go/compute/metadata v0.2.3
+	cloud.google.com/go/firestore v1.9.0
+	cloud.google.com/go/functions v1.9.0
+	cloud.google.com/go/kms v1.6.0
+	cloud.google.com/go/logging v1.6.1
+	cloud.google.com/go/pubsub v1.27.1
 	cloud.google.com/go/storage v1.27.0
 	github.com/Masterminds/goutils v1.1.1 // indirect
 	github.com/Masterminds/semver v1.5.0
@@ -58,11 +58,11 @@ require (
 	github.com/stretchr/testify v1.8.1
 	github.com/tidwall/gjson v1.14.3
 	go.uber.org/zap v1.23.0
-	golang.org/x/net v0.1.0
-	golang.org/x/oauth2 v0.1.0
-	google.golang.org/api v0.102.0
-	google.golang.org/genproto v0.0.0-20221024183307-1bc688fe9f3e
-	google.golang.org/grpc v1.50.1
+	golang.org/x/net v0.7.0
+	golang.org/x/oauth2 v0.5.0
+	google.golang.org/api v0.111.0
+	google.golang.org/genproto v0.0.0-20230223222841-637eb2293923
+	google.golang.org/grpc v1.53.0
 	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.1
 	k8s.io/api v0.22.2
